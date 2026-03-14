@@ -131,3 +131,9 @@ The system extracts phoneme data from the TTS engine and maps each phoneme to a 
 | Avatar | MetaHuman Creator |
 | Engine | Unreal Engine 5.3 |
 | Backend | Python 3.10 + Flask |
+
+---
+
+## Acknowledgements
+
+Special thanks to **Mohammed Faraz Ulla Shariff** for their invaluable help in building the Gemini API integration.
